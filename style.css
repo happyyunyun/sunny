@@ -1,0 +1,1060 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family:Cursive;
+}
+a{
+	text-decoration: none;
+}
+
+
+#globalheader {
+	background-color: #444;
+	background: rgba(0,0,0,0.6);
+    width: 1308px;
+    height: 46px;
+    margin:0 auto;
+}
+#menu{
+    width: 1100px;
+    padding: 20px;
+    margin: 0 auto;
+    text-align: center;
+}
+#sousuo{
+	float: right;
+    margin: -13px 0 10px 0;
+	padding: 0 10px;
+}
+#right1{
+	font-size: 14px;
+	float: right;
+	margin: -8px 80px 10px 20px;
+	padding: 0 10px;
+	color:#dcdcdc;
+}
+
+#right2{
+	font-size: 16px;
+	float: right;
+	margin: -8px 25px 10px 20px;
+	padding: 0 10px;
+	color:#dcdcdc;
+}
+#right3{
+	font-size: 16px;
+	float: right;
+	margin: -8px 25px 10px 20px;
+	padding: 0 10px;
+	color:#dcdcdc;
+}
+#right4{
+	font-size: 16px;
+	float: right;
+	margin: -8px 25px 10px 20px;
+	padding: 0 10px;
+	color:#dcdcdc;
+}
+#right5{
+	font-size: 16px;
+	float: right;
+	margin: -8px 25px 10px 20px;
+	padding: 0 10px;
+	color:#dcdcdc;
+}
+#right6{
+	font-size: 16px;
+	float: right;
+	margin: -8px 25px 10px 20px;
+	padding: 0 10px;
+	color:#dcdcdc;
+}
+#right7{
+	font-size: 16px;
+    float: right;
+	margin: -8px 25px 10px 20px;
+	padding: 0 10px;
+	color:#dcdcdc;
+}
+#right8{
+	font-size: 14px;
+	float: right;
+	margin: -8px 25px 10px 20px;
+	padding: 0 10px;
+	color:#dcdcdc;
+}
+#logo{
+    float: right;
+	margin: -10px 20px 10px 0;
+	padding: 0 10px;
+}
+#globalheader1{
+	background-color:rgba(242,242,242,0.85);
+    width: 1308px;
+    height: 59px;
+    margin:0 auto;
+}
+#menu1{
+    width: 980px;
+    padding: 20px;
+    margin: 0 auto;
+    text-align: center;
+}
+#store1{
+	font-size: 1px;
+	float: right;
+	margin: -1px 120px 10px 10px;
+	padding: 0 10px;
+	color:#696969;
+}
+#store2{
+	font-size: 1px;
+	float: right;
+	margin: -1px 10px 10px 10px;
+	padding: 0 10px;
+	color:#696969;
+}
+#store3{
+	font-size: 1px;
+	float: right;
+	margin: -1px 10px 10px 10px;
+	padding: 0 10px;
+	color:#696969;
+}
+#store4{
+	font-size: 1px;
+	float: right;
+	margin: -1px 10px 10px 10px;
+	padding: 0 10px;
+	color:#696969;
+}
+#store5{
+	font-size: 13px;
+	float: left;
+	margin: -1px 10px 10px 15px;
+	padding: 0 10px;
+	color:#696969;
+}
+#globalheader2{
+	background-color:rgba(242,242,242,0.85);                                                                                                                                                                                                                                                                                                                         ;
+    width: 1308px;
+    height: 90px;
+    margin:0 auto;
+}
+#menu2{
+    width: 980px;
+    height: 90px;
+    margin: 0 auto;
+    text-align: center;
+}
+#applestore1{
+	float: right;
+	margin: 7px 20px 10px 10px;
+	padding: 0 10px;
+	color:#696969;
+}
+#applestore2{
+	float: right;
+	margin: 7px 80px 10px 10px;
+	padding: 0 10px;
+	color:#696969;
+}
+#applestore3{
+	float: right;
+	margin: 2px 90px 10px 10px;
+	padding: 0 10px;
+	color:#696969;
+}
+#applestore4{
+	float: right;
+	margin: 2px 80px 10px 10px;
+	padding: 0 10px;
+	color:#696969;
+}
+#applestore5{
+	float: right;
+	margin: 5px 80px 10px 10px;
+	padding: 0 10px;
+	color:#696969;
+}
+#background1 img{
+	width: 792;
+	height: 746;
+	position: absolute;
+    bottom: 0;
+    top: -10px;
+    left: -80px;
+    z-index: -1;
+}
+#box1{
+	width: 810px;
+    text-align: center;
+    float: right;
+    padding: 130px 0 30px 0;
+}
+#title1{
+	letter-spacing: -1px;
+	font-size: 70px;
+    line-height: 1.05556em;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    font-family: "PingHei"
+}
+#title2{
+	letter-spacing: -1px;
+	font-size: 28px;
+    line-height: 1.125em;
+    margin: 10px 20px;
+    padding: 10px 20px;
+    color: #333;
+    font-family: "PingHei"
+}
+#button1{
+	margin: 20px 0;
+	color: #FFF;
+    border-top-color: #1992da;
+    border-left-color: #0c75bb;
+    border-right-color: #0c75bb;
+    border-bottom-color: #00589c;
+    background: #117ed2;
+    font-size: 13px;
+    padding: 9px 18px;
+    border: 1px solid #b5b5b7;
+    line-height: 19px;
+    display: inline-block;
+    font-family: "PingHei"
+}
+#box2{
+	padding: 24px 0;
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    padding: 570px 0 0 0;
+    font-family: "PingHei"
+    font-size: 15px;
+}
+#title3 img{
+    line-height: 1.44444em;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: "PingHei"
+}
+#iphone6{
+	color: #333;
+    text-align: center;
+    width: 1308px;
+    height: 667px;
+    padding: 0;
+    background-color: #f2f2f2;
+}
+#box3{
+	position: relative;
+	width: 980px;
+	height: 667px;
+    margin: 0 auto;
+    padding: 0;
+    color: #333;
+    text-align: center;
+    font-family: "PingHei"
+}
+#box4{
+	color: #333;
+	width:980px;
+	height: 193px;
+	margin: 0;
+	padding: 55px 0 41px 0;
+	text-align: center;
+	font-family: "PingHei"
+
+}
+#title4{
+	font-weight: 200;
+	letter-spacing: -1px;
+	font-size: 64px;
+    line-height: 1.0625em;
+	color: #333;
+	width: 980px;
+	height: 55px;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	font-family: "PingHei"
+}
+#sentenses1{
+	font-weight: 200;
+	font-size: 15px;
+	line-height: 1.44444em;
+	color: #333;
+	width: 980px;
+	height: 45px;
+	margin: 0;
+	padding: 40px 0 0 0;
+    text-align: center;
+    font-family: "PingHei"
+
+}
+#sentenses2{
+	width: 980px;
+	height: 35px;
+	font-size: 15px;
+    line-height: 0.7em;
+	padding: 0;
+	margin: 0;
+	font-weight: 200;
+	color: #333;
+    text-align: center;
+    font-family: "PingHei"
+}
+#sentenses2 a{
+	color: #08c;
+}
+
+#sentenses2 a:hover{
+	text-decoration: underline;
+}
+#sentenses3{
+	width: 980px;
+	height: 45px;
+	font-size: 15px;
+	line-height: 0.44444em;
+	padding: 20px 0 0 0;
+	margin: 0;
+	color: #333;
+    text-align: center;
+    font-family: "PingHei";
+}
+#sentenses3 a{
+	color: #08c;
+}
+#sentenses3 a:hover{
+	text-decoration: underline;
+	color: #08c;
+}
+#box5 img{
+	margin: 0;
+    padding: 10px 0 0 0;
+}
+#box6{
+	width: 980px;
+	height: 161px;
+	padding: 45px 0 45px 0;
+	margin: 0;
+}
+#box7{
+	float: right;
+	padding: 0 220px 10px 30px;
+	margin: 0;
+	color: #333;
+    font-family: "PingHei"  
+}
+#box8{
+	float: right;
+	padding: 0 100px 10px 30px;
+	margin: 0;
+    color: #333;
+    font-family: "PingHei"
+
+}
+#sentenses4{
+	font-weight: 200;
+	font-size: 32px;
+    line-height: 1.125em;
+    color: #333;
+    text-align: center;
+    font-family: "PingHei"
+}
+#sentenses5{
+	font-weight: 200;
+	font-size: 18px;
+    line-height: 1.44444em;
+    color: #333;
+    text-align: center;
+    font-family: "PingHei"
+}
+#sentenses6{
+	font-weight: 200;
+	font-size: 32px;
+    line-height: 1.125em;
+    color: #333;
+    text-align: center;
+    font-family: "PingHei"
+}
+#sentenses7{
+	font-weight: 200;
+	font-size: 18px;
+    line-height: 1.44444em;
+    color: #333;
+    text-align: center;
+    font-family: "PingHei"
+}
+#ipadmini3{
+	width: 1308px;
+	height: 595px;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+#box9{
+	display: block;
+	width: 980px;
+	position: relative;
+	min-height: 595px;
+    margin: 0 164px;
+    padding: 0;
+    overflow: hidden;
+}
+#box10{
+	float: left;
+    clear: both;
+    color: #333;
+    width: 500px;
+    height: 355px;
+    padding: 200px 0 0 0;
+    text-align: center;
+    position: relative;
+    font-family: "PingHei";
+    font-size: 10px;
+    line-height: 1.7em;
+
+}
+#background2{
+	float: left;
+	display: inline;
+	position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 0;
+    width: 447px;
+    height: 557px;
+}
+#title5{
+	letter-spacing: -2px;
+	font-size: 64px;
+    line-height: 1.0625em;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #333;
+    font-family: "PingHei";
+    width: 500px;
+    height: 68px;
+}
+#sentenses8{
+	font-size: 32px;
+    line-height: 1.125em;
+    letter-spacing: -2px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #333;
+    font-family: "PingHei";
+}
+#button2{
+	margin: 20px 0;
+	color: #FFF;
+    border-top-color: #1992da;
+    border-left-color: #0c75bb;
+    border-right-color: #0c75bb;
+    border-bottom-color: #00589c;
+    background: #117ed2;
+    font-size: 13px;
+    padding: 9px 18px;
+    border: 1px solid #b5b5b7;
+    line-height: 19px;
+    display: inline-block;
+    font-family: "PingHei"
+}
+#watch{
+	width: 1308px;
+	overflow: hidden;
+	margin: 0 auto;
+    height: 595px;
+    padding: 0;
+    line-height: 1.7em;
+    text-align: left;	
+    width: 1246px;	
+}
+#watch img{
+	width: 1308px;
+	position: absolute;
+	left: -70px;
+	right: -70px;
+	margin: 0 auto;
+    padding: 0;
+    font-size: 10px;
+    line-height: 1.7em;
+    text-align: left;
+}
+#box11{
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    width: 980px;
+    height: 343px;
+    padding: 0;
+    margin: 0 164px 0 135px;
+    font-size: 1px;
+    line-height: 13.7em;
+}
+#title6{
+	position: relative;
+    z-index: 2;
+    padding: 270px 0 0 0;
+    margin: 0;
+    font-size: 15px;
+    text-align: center;
+    font-family: "PingHei";
+    width: 980px;
+    height: 96px;
+}
+#title6 img{
+	width: 262px;
+	height: 56px;
+	padding: 0;
+	font-weight: normal;
+    font-size: 1em;
+    text-align: center;
+    font-family: "PingHei";
+    line-height: 1.7em;
+}
+#sentenses10{
+	font-size: 19px;
+	margin: 0;
+	padding: 0;
+	font-family: "PingHei";
+	text-align: center;
+
+}
+#sentenses10 a{
+	color: #08c;
+}
+#sentenses10 a:hover{
+	text-decoration: underline;
+}
+#imac{
+	overflow: hidden;
+    min-height: 565px;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+#box12{
+	position: relative;
+	width: 980px;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+}
+#box13{
+	display: block;
+	float: right;
+    width: 300px;
+    height: 500px;
+    text-align: center;
+    padding: 212px 0 0 0;
+    margin-right: 20px;
+}
+#box14{
+	width: 300px;
+	padding-bottom: 32px;
+	text-align: center;
+	font-weight: normal;
+    font-size: 1em;
+}
+#box13 img{
+	width: 150px;
+	height: 85px;
+	text-align: center;
+}
+#button3{
+	color: #FFF;
+    border-top-color: #1992da;
+    border-left-color: #0c75bb;
+    border-right-color: #0c75bb;
+    border-bottom-color: #00589c;
+    background: #117ed2;
+    font-size: 13px;
+    padding: 9px 18px;
+    border: 1px solid #b5b5b7;
+    line-height: 18px;
+    display: inline-block;
+    font-family: "PingHei"
+}
+#background3 img{
+	display: block;
+	float: left;
+	margin: -590px 0 -200px;
+	width: 779px;
+    height: 553px;
+    padding: 0;
+
+}
+#storeactivity{
+	background: #000;
+	margin: 0;
+	padding: 0;
+
+}
+#box15{
+	min-height: 590px;
+	position: relative;
+	width: 980px;
+    margin: 0 164px 0 164px;
+    padding: 0;
+}
+#box15 img{
+	position: absolute;
+    left: -200px;
+    top: 0;
+    margin: 0;
+    padding: 0;
+    width: 1343px;
+    height: 590px;
+}
+#box16{
+	text-align: center;
+    padding-top: 222px;
+    position: relative;
+    margin: 0;
+    padding: 222px 0 0 0;
+    width: 980px;
+}
+#title7{
+	font-weight: 200;
+	color: #fff;
+    margin-bottom: 12px;
+    font-size: 45px;
+    line-height: 1.07692em;
+    margin: 0 0 12px 0;
+    padding: 0;
+}
+#sentenses11{
+	font-size: 22px;
+    line-height: 1.07692em;
+    color: #fff;
+    margin-bottom: 16px;
+}
+#box16 a{
+	color: #fff;
+	font-size: 22px;
+}
+#fix{
+	width: 980px;
+	height: 1198px;
+    margin: 0 163px 0 163px;
+    box-shadow: none;
+    position: relative;
+    padding: 0 1px;
+    background: none repeat scroll 0 0 white;
+    border-radius: 4px;
+    line-height: 100%;
+    text-align: center;
+}
+#en{
+	width: 980px;
+	height: 150px;
+	text-align: center;
+    margin:0 0 70px 0 ;
+    padding: 0;
+    font-family: "PingHei";
+}
+#title8{
+	width: 980px;
+	height: 48px;
+	text-align: center;
+    color: #333;
+    padding: 65px 0 5px 0;
+    margin: 0;
+    font-size: 35px;
+    font-family: "PingHei";
+
+}#en a{
+	color: #08c;
+}
+#en a:hover{
+	text-decoration: underline;
+	font-size: 20px;
+	color: #08c;
+}
+#box18{
+	float: left;
+	width: 326px;
+	height: 652px;
+	min-height: 1px;
+	margin: 0;
+	padding: 0;
+	font-family: "PingHei";
+}
+#box18-1{
+	padding: 45px 25px 0 25px;
+    border-top: 0;
+    margin: 0;
+    text-align: left;
+}
+#box18-1-1{
+	margin: 0 0 33px 0;
+	padding: 0;
+	width: 276px;
+	height: 481px;
+
+}
+#title9{
+	text-align: center;
+	font-weight: normal;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+
+}
+#title9 a{
+	color: #08c;
+}
+#title9 a:hover{
+	text-decoration: underline;
+}
+#box18-1-2{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+
+
+}
+#sentenses12{
+	font-size: 16px;
+    line-height: 24px;
+    color: #333;
+    margin: 0 7px 3px 0;
+
+}
+#box19{
+	width: 652px;
+	height: 326px;
+	margin: 0;
+	padding: 0;
+	float: left;
+	min-height: 1px;
+	font-family: "PingHei";
+	border-left: 1px solid #dadada;
+}
+#box19-1{
+	padding: 45px 25px 0 25px;
+    border-top: 0;
+    margin: 0;
+    text-align: left;
+}
+#box19-1-1{
+	margin: 0 0 33px 0;
+	padding: 0;
+	width: 601px;
+	height: 156px;
+
+}
+#title10{
+	text-align: center;
+	font-weight: normal;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+
+}
+#title10 a{
+	color: #08c;
+}
+#title10 a:hover{
+	text-decoration: underline;
+}
+#box19-1-2{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+
+
+}
+#sentenses13{
+	font-size: 16px;
+    line-height: 24px;
+    color: #333;
+    margin: 0;
+
+}
+#box20{
+	float: left;
+	width: 326px;
+	height: 326px;
+	border-top: 1px solid #dadada;
+	border-left: 1px solid #dadada;
+	min-height: 1px;
+	margin: 0;
+	padding: 0;
+	font-family: "PingHei";
+}
+#box20-1{
+	padding: 45px 25px 0 25px;
+    border-top: 1;
+    margin: 0;
+    text-align: left;
+}
+#box20-1-1{
+	margin: 0 0 33px 0;
+	padding: 0;
+	width: 275px;
+	height: 156px;
+
+}
+#title11{
+	text-align: center;
+	font-weight: normal;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+
+}
+#title11 a{
+	color: #08c;
+}
+#title11 a:hover{
+	text-decoration: underline;
+}
+#box20-1-2{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+
+
+}
+#sentenses14{
+	font-size: 16px;
+    line-height: 24px;
+    color: #333;
+    margin: 0;
+
+}
+#box21{
+	float: left;
+	width: 326px;
+	height: 652px;
+	border-top: 1px solid #dadada;
+	border-left: 1px solid #dadada;
+	min-height: 1px;
+	margin: 0;
+	padding: 0;
+	font-family: "PingHei";
+}
+#box21-1{
+	padding: 45px 25px 0 25px;
+    border-top: 0;
+    margin: 0;
+    text-align: left;
+}
+#box21-1-1{
+	margin: 0 0 33px 0;
+	padding: 0;
+	width: 276px;
+	height: 481px;
+
+}
+#title12{
+	text-align: center;
+	font-weight: normal;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+
+}
+#title12 a{
+	color: #08c;
+}
+#title12 a:hover{
+	text-decoration: underline;
+}
+#box18-1-2{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+
+
+}
+#sentenses15{
+	font-size: 16px;
+    line-height: 24px;
+    color: #333;
+    margin: 0;
+    text-align: center;
+
+}
+#box22{
+	float: left;
+	width: 652px;
+	height: 326px;
+	border-top: 1px solid #dadada;
+	min-height: 1px;
+	margin:-326px 0 0 0;
+	padding: 0;
+	font-family: "PingHei";
+}
+#box22-1{
+	padding: 45px 25px 0 25px;
+    border-top: 0;
+    margin: 0;
+    text-align: left;
+}
+#box22-1-1{
+	margin: 0 0 33px 0;
+	padding: 0;
+	width: 601px;
+	height: 156px;
+
+}
+#title13{
+	text-align: center;
+	font-weight: normal;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+
+}
+#title13 a{
+	color: #08c;
+}
+#title13 a:hover{
+	text-decoration: underline;
+}
+#box22-1-2{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+
+
+}
+#sentenses16{
+	font-size: 16px;
+    line-height: 24px;
+    color: #333;
+    margin: 0;
+
+}
+#box23{
+	width: 1308px;
+	height: 143px;
+	padding: 0;
+	margin: 0;
+ 
+}
+#box24{
+	padding: 80px 0 70px;
+	position: relative;
+	width: 980px;
+    margin: 0 auto;
+    font-size: 13px;
+    line-height: 1.5em;
+    text-align: center;
+    color: #333;
+}
+#title14{
+    font-weight: 200;
+    padding: 15px 0 14px;
+    font-size: 28px;
+    line-height: 1.125em;
+    color: #333;
+    text-align: center;
+    font-family: "PingHei";
+   }
+#sentenses17{
+    font-weight: 200;
+    padding: 0 0 8px 0;
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.5em;
+    color: #333;
+    text-align: center;
+}
+#sentenses18{
+	font-weight: 200;
+	margin: 0;
+	padding: 0;
+	font-size: 14px;
+    line-height: 1.5em;
+    text-align: center;
+    color: #333;
+    font-family: "PingHei";
+}
+#sentenses18 a{
+	color: #08c;
+}
+#sentenses18 a:hover{
+	text-decoration: underline;
+	color: #08c;
+}
+.out{
+	background-image: url(images/point.png);
+	background-position: -296px 8px;
+}
+.on{
+	background-image: url(images/point.png);
+	background-position: -246px 8px;
+}
+.PPT{
+	margin-left:350px;
+	width: 639px;
+	position: relative;
+}
+
+#ppt{
+	width: 639px;
+}
+#ppt li{
+	display: none;
+}
+#J{
+position: absolute;
+top: 165px;
+left: 550px;
+z-index: 10;
+height: 13px;
+text-align: center;
+}
+#J li {
+float: left;
+position: relative;
+width: 8px;
+height: 8px;
+text-align: center;
+cursor: pointer;
+display: inline-block;
+margin: 3px;
+background-color:  rgba(0,0,0,0.3);
+}
+.jiantou{
+	width: 41.5px;
+	height: 69px;
+	display: inline-block;
+	position:absolute;
+	top:70px;
+}
+.zuojiantou{
+	background: url(img/toleft.png) no-repeat;
+}
+.youjiantou{
+	left:610px;
+	background: url(img/toright.png) no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
